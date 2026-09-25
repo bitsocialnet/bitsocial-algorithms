@@ -314,6 +314,7 @@ law.
 | [README.md](README.md) | Thesis, project boundaries, and roadmap |
 | [DECISION.md](DECISION.md) | Accepted architecture direction, pre-BSIP and non-normative |
 | [research/x-algorithm-2026.md](research/x-algorithm-2026.md) | Dated analysis of the 2026 X algorithm release |
+| [integrations/seedit.md](integrations/seedit.md) | Seedit `best` feed via a provider, and how it relates to pkc-js page sorts |
 
 ## Contributing
 
