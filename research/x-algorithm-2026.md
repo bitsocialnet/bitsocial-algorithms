@@ -263,4 +263,4 @@ using a synthetic or consented dataset and measured against deterministic baseli
 - [Bitsocial Graph](https://github.com/bitsocialnet/bitsocial-graph)
 - [bitsocial-indexer](https://github.com/bitsocialnet/bitsocial-indexer)
 - [Bitsocial lists](https://github.com/bitsocialnet/lists)
-- [Bitsocial Phase 3 flagship-app direction](https://github.com/bitsocialnet/bitsocial-web/blob/master/docs/flagship-bitsocial-app.md)
+- [Bitsocial Phase 2 flagship-app direction](https://github.com/bitsocialnet/bitsocial-web/blob/master/docs/flagship-bitsocial-app.md)
